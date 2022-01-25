@@ -1,5 +1,6 @@
 # 建立自己的資料集並處理
 [可參考此文件](https://blog.csdn.net/qq_44703886/article/details/119725334)，並搭配demo_video.py 和 demo_custom.py 使用
+從章節"4.3 demo.py 自定义修改"開始閱讀即可
 
 # Ultra-Fast-Lane-Detection
 PyTorch implementation of the paper "[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)".
